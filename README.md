@@ -26,21 +26,21 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
   - **奇妙记账 (a budgeting app)**
     - Clean layouts and cute cartoon icons to categorize expenses, making budgeting more enjoyable
     - App is free and add-free with free version
- - **Florence**
+  - **Florence**
     - Minimalist storytelling with small games that require some exploration to mimic tasks and events in Florence's life
     - Great theme: Relatable journey of growth
- - **Worrydolls**
+  - **Worrydolls**
     - Clear Layout: minimalist, soothing, therapeutic
     - Innovative idea
- - **Alipay**
+  - **Alipay**
     - Smart spotlight search preview with common functionalities
     - Re-onboarding with Quick Tour
 
 
 - [x] Think of an app idea that you would like to build. It can be a new idea or an improvement on an existing app. Write a short paragraph describing the app and the features you would like to implement. You are not committing to this idea, but it helps to start brainstorming early on and get feedback from your peers and instructors.
- -  A minimalist to-do list app that can quickly capture and manage users' requirest via voice and quick text typing (using AI)
- - By long-pressing the app icon or using a home screen widget, or searching (like searching Alipay), users can instantly record a task or type some simple words to their tasks. The all will transcribe the voice or short texts into a clear to-do item (possibly with short breakdown or desciption when users click into it)
- 
+  -  A minimalist to-do list app that can quickly capture and manage users' requirest via voice and quick text typing (using AI)
+  - By long-pressing the app icon or using a home screen widget, or searching (like searching Alipay), users can instantly record a task or type some simple words to their tasks. The all will transcribe the voice or short texts into a clear to-do item (possibly with short breakdown or desciption when users click into it)
+
 
 
 ## Notes
